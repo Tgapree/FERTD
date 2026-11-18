@@ -1,4 +1,3 @@
-FERTD
 Hello my name is Pirachat Yomawichiyanon currently pursuing a Bachelor's degree at Silpakorn University faculty of Engineering, Department of Electronic Engineering and Computer Systems.
 
 FERTD (First Engineering Robot Type Dog)
